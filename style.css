@@ -22,3 +22,52 @@ img{
     width:150px;
 }
 
+.leftBg{
+    margin-top: 500px;
+    margin-left: 50px;
+}
+
+.deckCaptionButton{
+    border:none;
+    border-radius: 8px;
+    background-color: white;
+    color: orange;
+    height: 40px;
+    width: 130px;
+}
+
+.dex img{
+    width:100%;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 60px;
+    padding-right: 60px;
+
+}
+
+.container{
+    margin-bottom: 100px;
+}
+.hudai{
+    margin-bottom: 10px;
+}
+
+.liner{
+    background-image: linear-gradient(60deg,orange,yellow);
+    border-radius: 5px;
+    height:5px;
+    width:120px;
+}
+
+.catImage{
+    width:150px;
+    height:150px;
+    box-shadow: 3px 3px 15px grey;
+    margin-bottom: 80px;
+    padding:20px;
+}
+
+.problematicBag{
+    margin-top: 122px;
+    padding-left: 80px;
+}
